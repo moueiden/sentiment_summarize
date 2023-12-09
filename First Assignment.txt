@@ -1,0 +1,27 @@
+ASSIGNMENT
+
+Projet 1:	Sentiment Analysis
+
+concatener= tweet_data + Tweet_data
+Tweet_data: à nettoyer
+french_tweets: à nettoyer
+les labels à utiliser : positif et négatif
+
+-Utiliser les 4 modèles: GRU ,Bidirectionnal GRU ,LSTM , Bidirectionnal LSTM
+
+-Sélectionner le modèle le plus performant pour l'appliquer sur les données de test
+
+-Utiliser  keras turner sur chaque modèle pour trouver les paramètres optimales(nbre de neurons,learning_rate,la dimension des vecteurs)
+
+-Se limiter à deux couches
+
+-Déploiement: Avec Streamlit
+Déployer les deux modèles french and english.
+En mettant en place deux boutons.
+
+Jouer sur le désign de l'application.
+
+Projet 2: Text summarize
+
+Déployer les 4 modèles utilisés en classe.
+En créant par exemple 4 boutons sur streamlit
